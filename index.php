@@ -1,3 +1,6 @@
+<?php
+    require "inc.koneksi.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +32,7 @@
                         <a class="nav-link fw-medium" href="index.php?p=tentang_kami">Tentang Kami</a>
                     </li>
                     <li class="nav-item pe-4">
-                        <a class="nav-link fw-medium" href="index.php?p=workshop">Workshop</a>
+                        <a class="nav-link fw-medium" href="index.php?p=workshoplist">Workshop</a>
                     </li>
                     <li class="nav-item pe-4">
                         <a class="nav-link fw-medium" href="#">Daftar/
